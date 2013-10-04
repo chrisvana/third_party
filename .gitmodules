@@ -1,0 +1,42 @@
+[submodule "boost"]
+	path = boost
+	url = https://github.com/chrisvana/boost_copy.git
+[submodule "cpp-netlib"]
+	path = cpp-netlib
+	url = https://github.com/chrisvana/cpp-netlib_copy.git
+[submodule "curlpp"]
+	path = curlpp
+	url = https://github.com/chrisvana/curlpp_copy.git
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/chrisvana/dlib_copy.git
+[submodule "json"]
+	path = json
+	url = https://github.com/chrisvana/json_copy.git
+[submodule "jsonrpc-cpp"]
+	path = jsonrpc-cpp
+	url = https://github.com/chrisvana/jsonrpc-cpp_copy.git
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/chrisvana/protobuf_copy.git
+[submodule "rdkit"]
+	path = rdkit
+	url = https://github.com/chrisvana/rdkit_copy.git
+[submodule "re2"]
+	path = re2
+	url = https://github.com/chrisvana/re2_copy.git
+[submodule "rpcz"]
+	path = rpcz
+	url = https://github.com/chrisvana/rpcz_copy.git
+[submodule "shark"]
+	path = shark
+	url = https://github.com/chrisvana/shark_copy.git
+[submodule "smhasher"]
+	path = smhasher
+	url = https://github.com/chrisvana/smhasher_copy.git
+[submodule "zeromq"]
+	path = zeromq
+	url = https://github.com/chrisvana/zeromq_copy.git
+[submodule "network"]
+	path = network
+	url = https://github.com/chrisvana/network.git

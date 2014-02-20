@@ -46,3 +46,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/chrisvana/repo_plugins.git
+[submodule "obabel"]
+	path = obabel
+	url = https://github.com/chrisvana/obabel_copy.git

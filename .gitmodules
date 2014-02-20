@@ -49,3 +49,6 @@
 [submodule "obabel"]
 	path = obabel
 	url = https://github.com/chrisvana/obabel_copy.git
+[submodule "vina"]
+	path = vina
+	url = https://github.com/chrisvana/vina_copy.git

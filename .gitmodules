@@ -46,3 +46,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/chrisvana/repo_plugins.git
+[submodule "eigen"]
+	path = eigen
+	url = https://github.com/chrisvana/eigen_copy.git

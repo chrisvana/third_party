@@ -55,3 +55,6 @@
 [submodule "eigen"]
 	path = eigen
 	url = https://github.com/chrisvana/eigen_copy.git
+[submodule "poly2tri"]
+	path = poly2tri
+	url = https://github.com/chrisvana/poly2tri_copy.git

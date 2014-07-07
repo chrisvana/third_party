@@ -64,3 +64,6 @@
 [submodule "mpfr"]
 	path = mpfr
 	url = https://github.com/chrisvana/mpfr_copy.git
+[submodule "cgal"]
+	path = cgal
+	url = https://github.com/chrisvana/cgal_copy.git

@@ -58,3 +58,9 @@
 [submodule "poly2tri"]
 	path = poly2tri
 	url = https://github.com/chrisvana/poly2tri_copy.git
+[submodule "gmp"]
+	path = gmp
+	url = https://github.com/chrisvana/gmp_copy.git
+[submodule "mpfr"]
+	path = mpfr
+	url = https://github.com/chrisvana/mpfr_copy.git

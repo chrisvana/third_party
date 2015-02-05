@@ -67,3 +67,6 @@
 [submodule "cgal"]
 	path = cgal
 	url = https://github.com/chrisvana/cgal_copy.git
+[submodule "file"]
+	path = file
+	url = https://github.com/chrisvana/file

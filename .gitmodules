@@ -70,6 +70,9 @@
 [submodule "file"]
 	path = file
 	url = https://github.com/chrisvana/file
+[submodule "util"]
+	path = util
+	url = https://github.com/chrisvana/util
 [submodule "rcpp"]
 	path = rcpp
 	url = https://github.com/chrisvana/Rcpp_copy

@@ -76,3 +76,6 @@
 [submodule "rcpp"]
 	path = rcpp
 	url = https://github.com/chrisvana/Rcpp_copy
+[submodule "dcmtk"]
+	path = dcmtk
+	url = https://github.com/chrisvana/dcmtk_copy.git

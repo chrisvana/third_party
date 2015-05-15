@@ -79,3 +79,6 @@
 [submodule "dcmtk"]
 	path = dcmtk
 	url = https://github.com/chrisvana/dcmtk_copy.git
+[submodule "pngpp"]
+	path = pngpp
+	url = https://github.com/chrisvana/png_pp_copy.git

@@ -82,3 +82,6 @@
 [submodule "pngpp"]
 	path = pngpp
 	url = https://github.com/chrisvana/png_pp_copy.git
+[submodule "printer"]
+	path = printer
+	url = https://github.com/chrisvana/printer.git

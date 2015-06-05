@@ -54,7 +54,7 @@
 	url = https://github.com/chrisvana/vina_copy.git
 [submodule "eigen"]
 	path = eigen
-	url = https://github.com/chrisvana/eigen_copy.git
+	url = https://github.com/chrisvana/eigen324_copy.git
 [submodule "poly2tri"]
 	path = poly2tri
 	url = https://github.com/chrisvana/poly2tri_copy.git
